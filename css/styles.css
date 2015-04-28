@@ -591,7 +591,8 @@ Hero
     position: relative;
     padding: 60px 0 120px 0;
     /* min-height: 800px; */
-    background: #fff url('../img/hero-2.png') no-repeat top center fixed;
+    background: ##558EC9;
+    /* url('../img/hero-2.png') no-repeat top center fixed*/
     /*background: rgb(40, 70, 102) url('../img/hero-2.png') no-repeat top center;*/
 
     background-size: 100%;
