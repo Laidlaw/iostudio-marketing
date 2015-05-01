@@ -591,7 +591,9 @@ Hero
     position: relative;
     padding: 60px 0 120px 0;
     /* min-height: 800px; */
-    background-color: #558EC9;
+    background-color: rgba(25, 96, 169, 1);
+    /*background-color: #558EC9;*/
+
     /* url('../img/hero-2.png') no-repeat top center fixed*/
     /*background: rgb(40, 70, 102) url('../img/hero-2.png') no-repeat top center;*/
 
@@ -930,7 +932,7 @@ figcaption.showonhover {
 }
 figcaption.hideonhover {
   opacity:1;
-  background-color: rgba(63, 97, 132, 0.65);
+  background-color: rgba(25, 96, 169, 0.71);
 }
 .clients figcaption a {
     color: #fff
@@ -986,32 +988,32 @@ Client Specific
 ========================================================================== */
 .clients .ng figcaption.showonhover {
 
-  background: #e31b23 url('../img/svg/NG_Mark.svg') no-repeat center 20px;
-  background-size: 60px;
+  background: #e31b23 url('../img/svg/NG_Mark.svg') no-repeat center 30px;
+  background-size: 70px;
 }
 .clients .ng {
 
 }
 
 .clients .hoh figcaption.showonhover {
-  background: #335580 url('../img/svg/HoH_Mark.svg') no-repeat center 20px;
-  background-size: 60px;
+  background: #335580 url('../img/svg/HoH_Mark.svg') no-repeat center 30px;
+  background-size: 70px;
 }
 .clients .hoh {
 
 }
 
 .clients .shfb figcaption.showonhover {
-  background: #40b98c url('../img/svg/shfb_Mark.svg') no-repeat center 20px;
-  background-size: 60px;
+  background: #40b98c url('../img/svg/shfb_Mark.svg') no-repeat center 30px;
+  background-size: 70px;
 }
 .clients .shfb {
 
 }
 
 .clients .kc figcaption.showonhover {
-  background: #00aeef url('../img/svg/KidCentral_Mark.svg') no-repeat center 20px;
-  background-size: 60px;
+  background: #00aeef url('../img/svg/KidCentral_Mark.svg') no-repeat center 30px;
+  background-size: 70px;
 }
 .clients .kc {
 
